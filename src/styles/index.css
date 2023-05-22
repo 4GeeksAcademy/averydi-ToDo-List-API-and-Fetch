@@ -10,3 +10,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+    margin-top: 100px;
+    background-color: lightblue;
+}
+ul {
+    padding:0%; 
+    margin-bottom: 0%;
+}
+ul li{
+    border: 2px solid black ;
+    list-style: none;
+    padding: 5px;
+    background-color: lightcoral;
+}
+h1{ 
+    text-align: center;
+    font-family: cursive;
+}
+input{ border: none; width: 100%;
+    background-color: rgb(224, 190, 17);
+    color: black;
+    font-family: cursive;
+}
